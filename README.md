@@ -1,3 +1,4 @@
+<img width="1024" height="1024" alt="Security-Analyst-lab-overview" src="https://github.com/user-attachments/assets/e3b0cef7-f83c-4702-a94a-2c87efbf9c3e" />
 ## Security Analyst Lab
 
 This is my personal Security Analyst Homelab.
