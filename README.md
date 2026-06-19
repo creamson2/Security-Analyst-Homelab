@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="Security-Analyst-lab-overview" src="https://github.com/user-attachments/assets/e3b0cef7-f83c-4702-a94a-2c87efbf9c3e" />
+
 ## Security Analyst Lab
 
 This is my personal Security Analyst Homelab.
@@ -23,8 +23,6 @@ The goal of this lab is to practice real Security Analyst skills:
 Each folder represents a real task, issue, or project I worked on.
 
 
-
-
 ## Lab Structure
 
 - 00-Homelab-Infrastructure
@@ -42,3 +40,7 @@ Each folder represents a real task, issue, or project I worked on.
 ## Purpose
 This lab shows how I think, how I troubleshoot, and how I work as a Security Analyst.
 It grows as I learn more and improve my skills.
+
+
+
+<img width="1024" height="1024" alt="Security-Analyst-lab-overview" src="https://github.com/user-attachments/assets/e3b0cef7-f83c-4702-a94a-2c87efbf9c3e" />
