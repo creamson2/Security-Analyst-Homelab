@@ -5,19 +5,19 @@ It includes my work with Wazuh, Splunk, Kali Linux, network isolation, encryptio
 
 The goal of this lab is to practice real Security Analyst skills:
 
-handling alerts
+- handling alerts
 
-reviewing logs
+- reviewing logs
 
-investigating suspicious activity
+- investigating suspicious activity
 
-building pipelines
+- building pipelines
 
-stabilizing systems
+- stabilizing systems
 
-documenting findings
+- documenting findings
 
-improving detections
+- improving detections
 
 Each folder represents a real task, issue, or project I worked on.
 
