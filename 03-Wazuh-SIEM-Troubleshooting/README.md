@@ -3,7 +3,8 @@
 This folder documents the issues I encountered while setting up and running Wazuh in my Security Analyst Lab.
 It includes errors, fixes, configuration notes, and lessons learned while stabilizing the SIEM.
 
-##What’s included
+## What’s included
+
 - Wazuh manager and agent connectivity issues
 
 - Indexer and dashboard problems
