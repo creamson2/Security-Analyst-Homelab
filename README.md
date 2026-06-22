@@ -24,7 +24,7 @@ Each folder represents a real task, issue, or project I worked on.
 
 ## Lab Structure
 
-- 00-Homelab-Infrastructure
+- ### 00-Homelab-Infrastructure
 
   Base setup of VMs, Network Testing for secure Environment
   
@@ -32,39 +32,38 @@ Each folder represents a real task, issue, or project I worked on.
   
     Segmentation and isolation testing for secure environments.
   
-- 02-WISP-Router-Setup
+- ### 02-WISP-Router-Setup
   
    Configuring a wireless ISP router for controlled lab traffic.
   
-- 03-Wazuh-SIEM-Troubleshooting
+- ### 03-Wazuh-SIEM-Troubleshooting
   
   
    Fixing agent issues, log ingestion failures, and rule mismatches.
   
-- 04-Kali-Linux-Stability
-  
+- ### 04-Kali-Linux-Stability
   
   
     Stabilizing Kali VM networking, updates, and tool reliability.
   
-- 05-VeraCrypt-Encrypted-Volume
-  
+- ### 05-VeraCrypt-Encrypted-Volume
+
  
    Full‑disk encryption workflow with key management.
   
-- 07-SIEM-Log-Ingestion-Pipeline
+- ### 07-SIEM-Log-Ingestion-Pipeline
   
   End‑to‑end Sysmon → Wazuh → indexing → alerting pipeline.
   
-- 08-Splunk-Elasticsearch-Lab
+- ###  08-Splunk-Elasticsearch-Lab
   
     Testing log ingestion, dashboards, and search workflows.
   
-- 09-Security-Analyst-Workflow
+- ### 09-Security-Analyst-Workflow
   
     My investigation workflow: triage → analysis → documentation.
   
-- 10-Kali-Elasticsearch-Troubleshooting
+- ### 10-Kali-Elasticsearch-Troubleshooting
   
     Fixing connectivity, ingestion, and index issues.
 
