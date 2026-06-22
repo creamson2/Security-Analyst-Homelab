@@ -19,3 +19,6 @@ It includes the setup steps, encryption settings, mounting process, and how I us
 ## Purpose
 This folder shows how I apply encryption to protect sensitive files inside my lab.
 It demonstrates practical use of secure storage — a key skill for handling logs, evidence, and investigation data safely.
+
+
+<img width="1024" height="1024" alt="05-VeraCrypt-Encrypted-Volume" src="https://github.com/user-attachments/assets/b67f40fe-58d3-43ed-b686-b70dd20e5627" />
