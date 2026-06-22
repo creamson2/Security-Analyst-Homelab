@@ -18,3 +18,5 @@ It includes networking problems, update failures, VirtualBox issues, and perform
 ## Purpose
 This folder shows how I troubleshoot and stabilize a core security tool.
 Kali is essential for testing, scanning, and investigations, so keeping it reliable is a key part of maintaining a functional Security Analyst Lab.
+
+<img width="1024" height="1024" alt="04-Kali-Linux-Stability" src="https://github.com/user-attachments/assets/4ec3c6f5-5535-4845-a8ff-704e5b73849e" />
