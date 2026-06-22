@@ -1,10 +1,9 @@
 
-## Security Analyst Lab
+## Security Analyst Homelab (Hands-On Portfolio)
 
-This is my personal Security Analyst Homelab.
-It includes my work with Wazuh, Splunk, Kali Linux, network isolation, encryption, log pipelines, troubleshooting, and my investigation workflow.
+A practical, hands‑on Security Analyst lab designed to build real defensive security skills. This environment includes Wazuh SIEM monitoring, Splunk/Elasticsearch log analysis, Kali Linux testing, network isolation, encrypted storage, and troubleshooting workflows.
 
-The goal of this lab is to practice real Security Analyst skills:
+This lab simulates real Security Analyst responsibilities:
 
 - handling alerts
 
@@ -26,15 +25,48 @@ Each folder represents a real task, issue, or project I worked on.
 ## Lab Structure
 
 - 00-Homelab-Infrastructure
+
+  Base setup of VMs, Network Testing for secure Environment
+  
 - 01-Network-Isolation-Lab
+  
+    Segmentation and isolation testing for secure environments.
+  
 - 02-WISP-Router-Setup
+  
+   Configuring a wireless ISP router for controlled lab traffic.
+  
 - 03-Wazuh-SIEM-Troubleshooting
+  
+  
+   Fixing agent issues, log ingestion failures, and rule mismatches.
+  
 - 04-Kali-Linux-Stability
+  
+  
+  
+    Stabilizing Kali VM networking, updates, and tool reliability.
+  
 - 05-VeraCrypt-Encrypted-Volume
+  
+ 
+   Full‑disk encryption workflow with key management.
+  
 - 07-SIEM-Log-Ingestion-Pipeline
+  
+  End‑to‑end Sysmon → Wazuh → indexing → alerting pipeline.
+  
 - 08-Splunk-Elasticsearch-Lab
+  
+    Testing log ingestion, dashboards, and search workflows.
+  
 - 09-Security-Analyst-Workflow
+  
+    My investigation workflow: triage → analysis → documentation.
+  
 - 10-Kali-Elasticsearch-Troubleshooting
+  
+    Fixing connectivity, ingestion, and index issues.
 
 
 ## Purpose
