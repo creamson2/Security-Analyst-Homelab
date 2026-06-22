@@ -19,3 +19,5 @@ It includes the setup steps, network behavior, and how the router interacts with
 
 This setup helps keep my homelab traffic separate from my main home network.
 It also provides a stable, controlled environment for testing tools like Wazuh, Splunk, and Kali without affecting other devices.
+
+<img width="1024" height="1024" alt="02-WISP-Router-Setup" src="https://github.com/user-attachments/assets/9c709bec-a04a-40cf-9a96-ad38aa65a0ac" />
