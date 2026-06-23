@@ -1,4 +1,4 @@
-IANNE M.
+## IANNE M.
 Entry‑Level Cybersecurity Analyst
 Greater Toronto Area, Canada
 contact.imacgal@gmail.com
