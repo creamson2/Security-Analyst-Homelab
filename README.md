@@ -51,19 +51,19 @@ Each folder represents a real task, issue, or project I worked on.
  
    Full‑disk encryption workflow with key management.
   
-- ### 07-SIEM-Log-Ingestion-Pipeline
+- ### 06-SIEM-Log-Ingestion-Pipeline
   
   End‑to‑end Sysmon → Wazuh → indexing → alerting pipeline.
   
-- ###  08-Splunk-Elasticsearch-Lab
+- ###  07-Splunk-Elasticsearch-Lab
   
     Testing log ingestion, dashboards, and search workflows.
   
-- ### 09-Security-Analyst-Workflow
+- ### 08-Security-Analyst-Workflow
   
     My investigation workflow: triage → analysis → documentation.
   
-- ### 10-Kali-Elasticsearch-Troubleshooting
+- ### 09-Kali-Elasticsearch-Troubleshooting
   
     Fixing connectivity, ingestion, and index issues.
 
