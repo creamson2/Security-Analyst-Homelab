@@ -32,7 +32,7 @@ Aug 2017 – Present
 - Investigated suspicious transactions and coordinated remediation with vendors and platform support.
 
 Selected earlier roles (condensed)
-General Manager & Entrepreneur — VGM Marmac General Mdse. (2005–2013) — operations, team leadership, process controls.
+General Manager & Entrepreneur — VGM Marmac General Mdse. till 2013 — operations, team leadership, process controls.
 Other roles: Product Brand Ambassador, Pharmacy Associate — customer service and incident handling.
 
 EDUCATION
