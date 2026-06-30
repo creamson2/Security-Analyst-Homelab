@@ -1,7 +1,7 @@
-### 10–Kali Linux & Security Onion Network Detection Lab
+## -  10–Kali Linux & Security Onion Network Detection Lab
 This folder documents how I integrated Kali Linux with Security Onion to practice real network detection, packet analysis, and alert investigation. It simulates how SOC analysts detect, analyze, and respond to suspicious network activity in enterprise environments.
 
-### What’s Included
+## -  What’s Included
  - Security Onion installation & setup
  - Network sensor configuration
  - Connecting Kali Linux as an attacker/test machine
@@ -15,7 +15,7 @@ This folder documents how I integrated Kali Linux with Security Onion to practic
  - Investigating suspicious activity 
  - Documenting findings
 
-### What I Learn
+## - What I Learn
  - . How network traffic is captured and analyzed
  - . How Suricata detects suspicious patterns
  - . How alerts are generated from packet data
