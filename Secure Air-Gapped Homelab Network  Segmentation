@@ -3,7 +3,7 @@
 ## OBJECTIVE: 
 Create a totally isolated "Mini - Homelab" enironment that allows for penetration testing , vulnerability scanning, and malware research without comprimisign the main  home network, nusing wireless bridging to seperate traffic.
 
-### Technical Implementation Steps 
+## Technical Implementation Steps 
 - Hardware Required :  An ISP router  (Home Network), a second  "Lab Router" (e.g., flashed with OpenWRT/pfSEnse, or a simple TP-   Link), and your Lab machines (mini PC/Raspberry Pi).
 - Step A : Wireless - Bridging /Client  Mode: Configure  you lab router to operates n "client mode" or w"wireless bridge" mode . It connects tp ypir home WIFfi to get internet , but its LAN ide is a complete different IP subnet (eg,. Home is 192.168.1.x, Lab is 10.0.0.x).
 - Step B : Firewall Configuration : 
