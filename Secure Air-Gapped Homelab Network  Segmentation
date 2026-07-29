@@ -1,4 +1,4 @@
-# # Secure Air-Gapped Homelab Network Segmentation
+# # Secure Air-Gapped Homelab Network Segmentation               ( 02-2026)
 
 # # OBJECTIVE: 
 Create a totally isolated "Mini - Homelab" enironment that allows for penetration testing , vulnerability scanning, and malware research without comprimisign the main  home network, nusing wireless bridging to seperate traffic.
