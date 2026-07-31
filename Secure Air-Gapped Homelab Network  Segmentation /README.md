@@ -1,6 +1,6 @@
-## Secure Air-Gapped Homelab Network Segmentation               ( 02-2026)
+#  Secure Air-Gapped Homelab Network Segmentation               ( 02-2026)
 
-## OBJECTIVE: 
+###  OBJECTIVE: 
 Create a totally isolated "Mini - Homelab" enironment that allows for penetration testing , vulnerability scanning, and malware research without comprimisign the main  home network, nusing wireless bridging to seperate traffic.
 
 ## Technical Implementation Steps 
@@ -9,5 +9,6 @@ Create a totally isolated "Mini - Homelab" enironment that allows for penetratio
 - Step B : Firewall Configuration : 
 - Set the WAN interface of the lab router to DHCP (gettng an IP from you main network)
 - Configure the firewall to drop all unsolicited  incoming rraffic from the WAN (main home network ) to the LAN (lab).
-- Step D : WPA3/Hardening  : Enable WPA3 on the lab router and change all default administrator credentials . 
+- Step D : WPA3/Hardening  : Enable WPA3 on the lab router and change all default administrator credentials .
+- Configure pfSense/OpenWRT firewall rules to allow  internet access while denying all unsolicited inbound traffic to the lab mitigating  risk of malware lateral movement.
 
